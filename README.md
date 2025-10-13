@@ -1,7 +1,7 @@
 # 👋Hello 
 
 
-<image src="C:\Users\user\Videos\new\arima_gif.gif">
+<image src="C:\Users\user\Pictures\different\arima.jpg">
 
 - 🎓 Студент МГКЦТ
 
