@@ -1,7 +1,7 @@
 # 👋Hello 
 
 
-<image src="C:\Users\user\Pictures\different\arima.jpg">
+![Image alt](https://github.com/Alspezza/lr1-git/blob/master/arima_gif.gif)
 
 - 🎓 Студент МГКЦТ
 
