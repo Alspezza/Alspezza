@@ -13,10 +13,6 @@
 
 
 
-## Связаться со мной
-zspecian23@gmail.com
-tg, tt: @alspezza0
-----------------------
 
 
 sisTEMNIK
